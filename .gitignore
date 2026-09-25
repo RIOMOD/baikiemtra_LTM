@@ -1,0 +1,15 @@
+# Compiled Java classes
+bin/
+*.class
+
+# Temporary Word lock files
+~$*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE configs
+.idea/
+.vscode/
+*.iml
